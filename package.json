@@ -1,15 +1,24 @@
 {
-  "name": "jlm-api",
+  "name": "jlm-api-client",
   "version": "0.0.1",
   "description": "An npm package that makes it easy to use the JLM2017 API",
   "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/jlm2017/api-client/issues",
+    "email": "guillaume.royer@jlm2017.fr"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Arthur Cheysson",
+  "license": "GPL-3.0",
   "dependencies": {
     "js-base64": "^2.1.9",
     "superagent": "^3.5.0"
+  },
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/jlm2017/api-client.git"
   }
 }
