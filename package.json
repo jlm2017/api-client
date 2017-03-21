@@ -1,0 +1,15 @@
+{
+  "name": "jlm-api",
+  "version": "0.0.1",
+  "description": "An npm package that makes it easy to use the JLM2017 API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-base64": "^2.1.9",
+    "superagent": "^3.5.0"
+  }
+}
