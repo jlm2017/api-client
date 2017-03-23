@@ -1,6 +1,4 @@
-const api = require('./lib/api');
+const createClient = require('./lib/api');
 const filters = require('./lib/filters');
 
-api.filters = filters;
-
-module.exports = api;
+module.exports = {createClient, filters};

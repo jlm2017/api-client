@@ -1,6 +1,6 @@
 {
-  "name": "jlm-api-client",
-  "version": "0.0.1",
+  "name": "fi-api-client",
+  "version": "0.0.2",
   "description": "An npm package that makes it easy to use the JLM2017 API",
   "main": "index.js",
   "bugs": {
@@ -10,7 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Arthur Cheysson",
+  "author": "France Insoumise",
   "license": "GPL-3.0",
   "dependencies": {
     "js-base64": "^2.1.9",
