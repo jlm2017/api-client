@@ -1,6 +1,6 @@
 {
   "name": "@fi/api-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An npm package that makes it easy to use the JLM2017 API",
   "main": "index.js",
   "bugs": {
