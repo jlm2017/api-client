@@ -8,13 +8,14 @@
     "email": "guillaume.royer@jlm2017.fr"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "France Insoumise",
   "license": "GPL-3.0",
   "dependencies": {
     "js-base64": "^2.1.9",
-    "superagent": "^3.5.0"
+    "superagent": "^3.5.0",
+    "superagent-mocker": "^0.5.2"
   },
   "repository": {
     "type": "git",
@@ -22,9 +23,7 @@
   },
   "devDependencies": {
     "chai": "^4.0.0",
-    "chai-as-promised": "^6.0.0",
     "eslint": "^3.19.0",
-    "mocha": "^3.4.2",
-    "superagent-mock": "^3.4.0"
+    "mocha": "^3.4.2"
   }
 }
