@@ -1,6 +1,6 @@
 {
   "name": "@fi/api-client",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "An npm package that makes it easy to use the JLM2017 API",
   "main": "index.js",
   "bugs": {
@@ -19,5 +19,12 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jlm2017/api-client.git"
+  },
+  "devDependencies": {
+    "chai": "^4.0.0",
+    "chai-as-promised": "^6.0.0",
+    "eslint": "^3.19.0",
+    "mocha": "^3.4.2",
+    "superagent-mock": "^3.4.0"
   }
 }
