@@ -10,6 +10,7 @@
   "scripts": {
     "test": "mocha"
   },
+  "engines" : { "node" : "> 6.4.0" },
   "author": "France Insoumise",
   "license": "GPL-3.0",
   "dependencies": {
